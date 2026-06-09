@@ -1,9 +1,7 @@
-function App() {
-  const [count, setCount] = useState(0)
+import Example1 from "./practice/Example2";
 
-  return (
-   
-  );
+function App() {
+  return <Example1 />;
 }
 
-export default App
+export default App;
