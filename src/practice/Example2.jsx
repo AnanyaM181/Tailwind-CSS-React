@@ -20,22 +20,22 @@ export default Example2
 // is returned from the return() statement.
 
 
-{/* 
+/* 
         className is used instead of class in React.
         Tailwind CSS classes are written inside className.
         
         bg-blue-200  -> Light blue background color
         mb-10        -> Margin Bottom (2.5rem or 40px)
-*/}
+*/
 
-{/*
+/*
           p = Paragraph tag
 
           text-xl        -> Extra large text size
           font-semibold  -> Semi-bold font weight
           text-center    -> Align text to center
           text-green-500 -> Green text color
-*/}
+*/
 
 
 
