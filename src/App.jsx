@@ -1,7 +1,5 @@
-import Example1 from "./practice/Example2";
-
 function App() {
-  return <Example1 />;
+  return <Example3 />;
 }
 
-export default App;
+export default Example3;

@@ -1,4 +1,5 @@
 // TAILWIND CSS ESSENTIAL UTILITY CLASSES
+// TEXT , COLOUR AND SPACING
 
 function Example2() {
   return ( 
